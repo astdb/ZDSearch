@@ -1,0 +1,5 @@
+{
+	"UserDataFileLocation": "./users.json",
+	"OrgDataFileLocation": "./organizations.json",
+	"TicketDataileLocation": "./tickets.json"
+}
